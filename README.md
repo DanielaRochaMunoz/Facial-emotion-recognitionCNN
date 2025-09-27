@@ -2,6 +2,7 @@
 
 Convolutional Neural Network (CNN) trained with **30,000 images** to detect facial expressions and classify emotions in real time.
 
+<img width="708" height="353" alt="Image" src="https://github.com/user-attachments/assets/6e658ba5-9e00-42c0-bbc2-37633198432e" />
 ---
 
 ## Main Features
